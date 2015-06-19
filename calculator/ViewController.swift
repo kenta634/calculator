@@ -1,9 +1,9 @@
 //
-//  ViewController.swift
-//  myCalc
+//  AppDelegate.swift
+//  calculator
 //
-//  Created by win on 2015/04/03.
-//  Copyright (c) 2015年 win. All rights reserved.
+//  Created by 高橋健太 on 2015/06/14.
+//  Copyright (c) 2015年 高橋健太. All rights reserved.
 //
 
 import UIKit

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>85A1799C-C423-4333-B50A-7DA13F9A1B5B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>calculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FF173BA0AB9CB33383558AF09EE6AEFFAB6F6AEE</key>
+		<string>https://github.com/kenta634/calculator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>calculator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FF173BA0AB9CB33383558AF09EE6AEFFAB6F6AEE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kenta634/calculator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FF173BA0AB9CB33383558AF09EE6AEFFAB6F6AEE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FF173BA0AB9CB33383558AF09EE6AEFFAB6F6AEE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>calculator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
