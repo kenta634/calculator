@@ -20,7 +20,6 @@ class ViewController: UIViewController {
     var rightNum = 0
     var reCalc = 0
     
-    //yaaa
     
     
     
